@@ -1,4 +1,4 @@
-/**主页的js文件**/
+/**js鏂囦欢**/
 window.onload = function (){
 	var body = document.getElementById("body");
 	body.style.background = red;
