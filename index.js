@@ -7,3 +7,7 @@ window.onload = function (){
 	body.padding = "0px";
 	body.border = "solid 1px #ddd";
 }
+
+var disX = 0;
+var disY = 0;
+
